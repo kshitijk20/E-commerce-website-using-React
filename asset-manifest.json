@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/E-commerce-website-using-React/static/css/main.d455a518.css",
+    "main.js": "/E-commerce-website-using-React/static/js/main.6801515f.js",
+    "static/js/787.c1112931.chunk.js": "/E-commerce-website-using-React/static/js/787.c1112931.chunk.js",
+    "static/media/jacket.jpg": "/E-commerce-website-using-React/static/media/jacket.4605147959fe19976a9a.jpg",
+    "static/media/black.jpg": "/E-commerce-website-using-React/static/media/black.52dc180b09270e2d4869.jpg",
+    "static/media/canon.jpg": "/E-commerce-website-using-React/static/media/canon.16f38649d89a2bd33818.jpg",
+    "static/media/Denim.jpg": "/E-commerce-website-using-React/static/media/Denim.11e93552ea5256d9fb94.jpg",
+    "static/media/hat.jpg": "/E-commerce-website-using-React/static/media/hat.a12b4ee3b4c006029d1b.jpg",
+    "static/media/mac-1.jpg": "/E-commerce-website-using-React/static/media/mac-1.19be5b0e3d32929ca36c.jpg",
+    "static/media/iphone.jpg": "/E-commerce-website-using-React/static/media/iphone.8bb85a378a4fd3d788b1.jpg",
+    "static/media/wallet.jpg": "/E-commerce-website-using-React/static/media/wallet.6168c9dea702b29bfb9e.jpg",
+    "static/media/11.jpg": "/E-commerce-website-using-React/static/media/11.9a6bf06dbbded7386740.jpg",
+    "index.html": "/E-commerce-website-using-React/index.html",
+    "main.d455a518.css.map": "/E-commerce-website-using-React/static/css/main.d455a518.css.map",
+    "main.6801515f.js.map": "/E-commerce-website-using-React/static/js/main.6801515f.js.map",
+    "787.c1112931.chunk.js.map": "/E-commerce-website-using-React/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d455a518.css",
+    "static/js/main.6801515f.js"
+  ]
+}
